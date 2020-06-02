@@ -1,0 +1,4 @@
+{
+    "policy_inputs": {"key1": "value1", "key2": "value2"},
+    "decisions": {"key1": "value1", "key2": "value2"}
+}
